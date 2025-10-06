@@ -1,0 +1,8 @@
+[project]
+name = "malloclib"
+version = "0.1.0"
+description = "Find the first preloaded library exporting malloc/free; else use the process’s libc."
+readme = "README.md"
+requires-python = ">=3.8"
+license = "Apache-2.0"
+authors = [{ name = "Emery Berger", email="emery.berger@gmail.com" }]
