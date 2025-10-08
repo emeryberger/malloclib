@@ -1,1 +1,1 @@
-from mallocfinder.mallocfinder import lib
+from malloclib.malloclib import lib
